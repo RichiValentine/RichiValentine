@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Hiring all SDEII positions out of Seattle, NY, and CA. 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... anyone who is interested in interviewing for the FAANG AWS.
-- 📫 How to reach me ... sayarich@amazon.com or https://www.linkedin.com/in/richvalentine/
+- 📫 How to reach me ... https://www.linkedin.com/in/richvalentine/
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... I love AI / ML 
 

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anyone who is interested in interviewing for the FAANG AWS.
 - 📫 How to reach me ... https://www.linkedin.com/in/richvalentine/
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... I love AI / ML 
+- ⚡ Fun fact: ... A Man that can cook
 
 <!---
 RichiValentine/RichiValentine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
